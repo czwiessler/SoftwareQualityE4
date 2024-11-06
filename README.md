@@ -24,7 +24,7 @@ This repository contains the `SoftwareQualityE4` project, focusing on calculatin
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/czwiessler/SoftwareQualityE4.git
    ```
 2. Open the project in your favorite IDE.
 3. Run the `CyclomaticComplexity` class to observe the cyclomatic complexity example.
@@ -32,7 +32,3 @@ This repository contains the `SoftwareQualityE4` project, focusing on calculatin
 ## Contributing
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
-
----
-
-This README provides a structured overview of your repository and explains the purpose of each file and how to run the code. Adjust the content as necessary based on specific requirements for your project.
