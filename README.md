@@ -1,8 +1,12 @@
-Here’s a sample `README.md` for your project repository:
-
----
-
 # SoftwareQualityE4
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+## Audience
+
+This project is intended for students and professionals interested in software quality and cyclomatic complexity.
+
+## Overview
 
 This repository contains the `SoftwareQualityE4` project, focusing on calculating and analyzing cyclomatic complexity.
 
@@ -29,6 +33,6 @@ This repository contains the `SoftwareQualityE4` project, focusing on calculatin
 2. Open the project in your favorite IDE.
 3. Run the `CyclomaticComplexity` class to observe the cyclomatic complexity example.
 
-## Contributing
+## License
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
